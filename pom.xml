@@ -42,7 +42,7 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
  <sonar.organization>iaramendi0-1</sonar.organization>
  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
  <sonar.projectKey>iaramendi0-SI2</sonar.projectKey>
- <sonar.login>9deb2d964cd73836c7771f084e008f5575fbe751</sonar.login>
+ <sonar.login>f305b1fc79353bd6a998b80d995a69fe2cee12e1</sonar.login>
 </properties>
 <!-- https://mvnrepository.com/artifact/junit/junit -->
 <dependencies>
@@ -95,10 +95,10 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 https://mvnrepository.com/artifact/org.mockito/mockito-all
 -->
 <dependency>
- <groupId>org.mockito</groupId>
- <artifactId>mockito-all</artifactId>
- <version>1.9.5</version>
- <scope>test</scope>
+    <groupId>org.mockito</groupId>
+    <artifactId>mockito-core</artifactId>
+    <version>3.12.4</version>
+    <scope>test</scope>
 </dependency>
 </dependencies>
 </project>
