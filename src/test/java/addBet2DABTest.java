@@ -15,7 +15,7 @@ import domain.Erregistratua;
 import domain.Event;
 import test.dataAccess.TestDataAccess;
 
-public class addBetDABTest2 {
+public class addBet2DABTest {
 
 	//sut:system under test
 		 static DataAccessAddBet sut=new DataAccessAddBet();
