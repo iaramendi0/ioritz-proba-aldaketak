@@ -492,3 +492,41 @@ Type domain.Admin is not enhanced.
 [2023-10-19 10:58:29 #12 type] 
 Type domain.Editorea is not enhanced.
 
+------------------------------------------------------------------------------------------------------------------------
+
+[2023-10-19 11:29:19 #1 store] 
+Database 'C:\Users\iaram\git\probaAldaketak\src\main\resources\bets.temp' has been recovered (tr. 3115-3131)
+
+[2023-10-19 11:29:19 #2 store] 
+Database 'C:\Users\iaram\git\probaAldaketak\src\main\resources\bets.temp' is opened by 29360@LAPTOP-QG7DD9CE
+
+[2023-10-19 11:29:19 #3 type] 
+Type domain.Aukera is not enhanced.
+
+[2023-10-19 11:29:19 #4 type] 
+Type domain.Apustua is not enhanced.
+
+[2023-10-19 11:29:19 #5 type] 
+Type domain.Question is not enhanced.
+
+[2023-10-19 11:29:19 #6 type] 
+Type domain.Event is not enhanced.
+
+[2023-10-19 11:29:19 #7 type] 
+Type domain.User is not enhanced.
+
+[2023-10-19 11:29:19 #8 type] 
+Type domain.Erregistratua is not enhanced.
+
+[2023-10-19 11:29:19 #9 type] 
+Type domain.Mezua is not enhanced.
+
+[2023-10-19 11:29:19 #10 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2023-10-19 11:29:19 #11 type] 
+Type domain.Admin is not enhanced.
+
+[2023-10-19 11:29:19 #12 type] 
+Type domain.Editorea is not enhanced.
+
