@@ -4,7 +4,7 @@ xsi:schemaLocation="http://maven.apache.org/POM/4.0.0
 http://maven.apache.org/xsd/maven-4.0.0.xsd">
  <modelVersion>4.0.0</modelVersion>
  <groupId>upv-ehu-iso2</groupId>
- <artifactId> SonarLint_Amets </artifactId>
+ <artifactId> SI </artifactId>
  <version>0.0.1-SNAPSHOT</version>
 <build>
  <plugins>
@@ -39,10 +39,10 @@ http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <properties>
  <maven.compiler.target>1.8</maven.compiler.target>
  <maven.compiler.source>1.8</maven.compiler.source>
- <sonar.organization>ametscs</sonar.organization>
+ <sonar.organization>iaramendi0-1</sonar.organization>
  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
- <sonar.projectKey>sonar.Bets21</sonar.projectKey>
- <sonar.login>9deb2d964cd73836c7771f084e008f5575fbe751</sonar.login>
+ <sonar.projectKey>iaramendi0_SI2</sonar.projectKey>
+ <sonar.login>f305b1fc79353bd6a998b80d995a69fe2cee12e1</sonar.login>
 </properties>
 <!-- https://mvnrepository.com/artifact/junit/junit -->
 <dependencies>
